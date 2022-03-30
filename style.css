@@ -1,0 +1,36 @@
+article{
+    margin: auto;
+    border: 2px solid black;
+    width: 1500px;
+    padding: 20px;
+}
+#piros{
+    border: 2px solid black;
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    border-radius: 100px;
+    margin-bottom: 10px;
+}
+#sarga{
+    border: 2px solid black;
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    border-radius: 100px;
+    margin-bottom: 10px;
+}
+#zold{
+    border: 2px solid black;
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    border-radius: 100px;
+}
+#kocsi {
+    border: 2px solid black;
+    float:left;
+}
